@@ -17,7 +17,7 @@ let package = Package(
     ],
     targets: [
     .binaryTarget(
-        name: "iOS_wis",
+        name: "iOS_wis_spm",
         url:"https://github.com/semihsendilwebinstats/iOS_wis_spm_xc/blob/main/iOS_wis.xcframework.zip",
         checksum:"64822e289b2df13379c09396797d6e8518ae4130bdd51c6a63ed4c2351fd5a35"
         ),
