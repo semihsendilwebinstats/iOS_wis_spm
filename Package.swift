@@ -4,7 +4,7 @@ import PackageDescription
 let package = Package(
 	name: "iOS_wis",
 	platforms:[
-		.iOS(.v11)
+		.iOS(.v9)
 	],
 	products: [
 		.library(
